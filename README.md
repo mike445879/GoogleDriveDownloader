@@ -27,6 +27,4 @@ Downloading large files from Google Drive using a browser can sometimes be probl
    - Replace the path to the JSON file in the Main method of the Program.cs file with the path to your JSON file.
    - Modify the chunk size if necessary.
 
-4.Build and run the project:
-
 Note: The default download location is the "Downloads" folder in the user's profile directory. You can modify the output file name and location in the Main method of the Program.cs file.
