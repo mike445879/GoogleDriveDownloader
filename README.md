@@ -31,6 +31,15 @@ Note: The default download location is the "Downloads" folder in the user's prof
 
 =========================================================================
 
+**Important Note about Antivirus Software**: Some antivirus software might flag this application as potentially unsafe due to its capability to download files from external sources. If you encounter such a warning or error:
+
+1. Ensure that the source code and its behavior align with your intent and that you trust its origin.
+2. Adjust your antivirus settings to whitelist or allow the application to run. Check your antivirus documentation or support channels for guidance.
+
+Always exercise caution when whitelisting applications, and ensure you're doing so with trusted software.
+
+=========================================================================
+
 The *FILE_ID* refers to the unique identifier assigned to a file in Google Drive. It is not the file name. Each file and folder in Google Drive has a unique ID that is used to reference it within the Google Drive API.
 
 To find the FILE_ID of a file in Google Drive:
